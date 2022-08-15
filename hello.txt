@@ -3,3 +3,5 @@ haloo kak
 mencoba menambahkan pembaharuan deskripsi
 
 Melakukan squash changes
+
+Melakukan squash changes ke 2
