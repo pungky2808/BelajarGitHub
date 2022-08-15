@@ -1,3 +1,9 @@
 haloo kak
 
 mencoba menambahkan pembaharuan deskripsi
+
+Melakukan squash changes
+
+Melakukan squash changes ke 2
+
+Melakukan squash changes ke 3
